@@ -5,7 +5,8 @@
     xsi:schemaLocation="http://eclipse.org/smarthome/schemas/config-description/v1.0.0
         http://eclipse.org/smarthome/schemas/config-description-1.0.0.xsd">
 
-  <config-description>
+  <config-description uri="thing-type:modbus:config">
+  
   </config-description>
 
 </config-description:config-descriptions>
